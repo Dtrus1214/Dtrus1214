@@ -7,11 +7,11 @@ I build scalable, production-ready systems that combine clean UX with intelligen
 - Back-end: Node.js, Express, Python (FastAPI, Django), Serverless Architectures
 - Databases: PostgreSQL, MongoDB, Redis, Vector Databases (Pinecone, Weaviate, FAISS)
 - AI/ML & LLMs:
-OpenAI API, GPT-4/5, function calling, structured outputs
-LangChain, LlamaIndex, RAG (Retrieval-Augmented Generation)
-Embeddings, semantic search, prompt engineering
-Fine-tuning, AI agents, multi-agent systems
-Hugging Face, Transformers, PyTorch
+  - OpenAI API, GPT-4/5, function calling, structured outputs
+  - LangChain, LlamaIndex, RAG (Retrieval-Augmented Generation)
+  - Embeddings, semantic search, prompt engineering
+  - Fine-tuning, AI agents, multi-agent systems
+  - Hugging Face, Transformers, PyTorch
 - DevOps: AWS, Docker, Kubernetes, CI/CD, Vercel, Azure
 - Tools & Workflows: AI-assisted development (Codex, Claude), GitHub Actions, monorepos (Turborepo, Nx)
 - Version Control: Git, GitHub
